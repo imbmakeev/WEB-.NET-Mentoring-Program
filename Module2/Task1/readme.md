@@ -19,7 +19,6 @@ o	Instead of references to Category and Supplier, their names should be shown
 Note:
 •	All configuration parameters (connection strings, etc.) can remain in the code (hardcoded)
 
-=======
 Production
 =======
 DB is storing in solution folder /App_Data/
