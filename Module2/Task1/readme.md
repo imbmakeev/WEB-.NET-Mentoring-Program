@@ -22,4 +22,4 @@ Note:
 =======
 Production
 =======
-DB store in solution folder /App_Data/
+DB is storing in solution folder /App_Data/
